@@ -1,3 +1,9 @@
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=6PC_hz5TMYY
+" target="_blank"><img src="http://img.youtube.com/vi/6PC_hz5TMYY/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+### Click the above image to view the YouTube tutorial
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
